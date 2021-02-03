@@ -1,0 +1,3 @@
+git config --global user.name “asmfahim2002”
+git config --global user.email “asmfahim2002@gmail.com”
+git config --global user.password “18451845fahim”
